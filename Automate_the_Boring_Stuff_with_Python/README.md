@@ -5,7 +5,8 @@ This repository contains my personal notes and code snippets from the udemy cour
 
 [Udemy course](https://www.udemy.com/course/automate/) **"Automate the Boring Stuff with Python"**  # Scriptsby Al Sweigart. # Scripts
 
- # Scripts
+## Scripts
+
 The goal of this repo is to document key concepts, examples, and exercises as I progress through the course, and serve as a future reference.
 
 ## 📘 Course Overview
