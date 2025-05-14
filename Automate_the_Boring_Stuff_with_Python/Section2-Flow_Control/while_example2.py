@@ -1,5 +1,5 @@
 spam = 0
-while span < 5:
+while spam < 5:
     spam = spam + 1
     if spam == 3:
         continue
