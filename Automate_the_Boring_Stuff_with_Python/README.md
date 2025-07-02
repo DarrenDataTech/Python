@@ -1,6 +1,6 @@
 # Automate the Boring Stuff with Python - Notes
 
-Welcome! 👋  
+Welcome! 
 This repository contains my personal notes and code snippets from the udemy course.
 
 [Udemy course](https://www.udemy.com/course/automate/) **"Automate the Boring Stuff with Python"**  # Scriptsby Al Sweigart. # Scripts
@@ -9,7 +9,7 @@ This repository contains my personal notes and code snippets from the udemy cour
 
 The goal of this repo is to document key concepts, examples, and exercises as I progress through the course, and serve as a future reference.
 
-## 📘 Course Overview
+## Course Overview
 
 "Automate the Boring Stuff with Python" is a beginner-fri # Scriptsendly course focused on practical Python programming for automating everyday computer tasks like:
 
@@ -20,4 +20,4 @@ The goal of this repo is to document key concepts, examples, and exercises as I 
 - Sending emails and texts
 - Organizing files
 
-## 📂 Repo Structure
+## Repo Structure
